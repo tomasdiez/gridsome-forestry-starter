@@ -1,10 +1,11 @@
 ---
 date: 2019-05-07
-title: Gridsome with Forestry CMS starter-kit
+title: Finally here
 author: Nichlas W. Andersen
-excerpt: Get up and running with a fresh macOS Mojave install
+excerpt: This is a digital space to share some stories from the past, and some ideas
+  of the future
 
 ---
-#### My blog post
+#### We will never be alone again
 
 Empty post
